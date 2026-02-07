@@ -1,0 +1,10 @@
+# Ignoră fișierele temporare create de Python
+__pycache__/
+*.py[cod]
+
+# Ignoră mediile virtuale (dacă vei folosi)
+venv/
+.venv/
+ 
+# Ignoră fișierele de configurare ale VS Code (opțional)
+.vscode/
